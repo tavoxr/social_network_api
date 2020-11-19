@@ -1,0 +1,12 @@
+#
+# This file contains all dependencies required to this project
+# run pip install -r requirements.txt     --to install all of them 
+asgiref==3.2.10         
+django-cors-headers==3.5.0  
+django-extra-fields==3.0.0  
+django-filter==2.3.0      
+django==3.1               
+djangorestframework==3.11.1  
+psycopg2==2.8.6           
+pytz==2020.1              
+sqlparse==0.3.1           
